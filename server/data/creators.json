@@ -1,0 +1,1184 @@
+[
+  {
+    "id": 1,
+    "name": "Tyler Rodriguez",
+    "displayName": "TyGames",
+    "slug": "tygames",
+    "category": "Gaming",
+    "subcategories": [
+      "Valorant",
+      "FPS",
+      "Coaching"
+    ],
+    "bio": "Pro Valorant player and variety streamer. 15K Twitch followers. Coaching, 1v1s, and custom game sessions. Let's level up your game together.",
+    "photo": "/creators/profile-tyler-gaming.jpg",
+    "currencyName": "TyGames Coin",
+    "currencySymbol": "TYGAMES",
+    "currencyPrice": 1.0,
+    "followers": 15000,
+    "customersCount": 450,
+    "servicesSold": 1200,
+    "socialLinks": {
+      "twitch": "https://twitch.tv/tygames",
+      "twitter": "https://twitter.com/tygames",
+      "instagram": "https://instagram.com/tygames"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "1-Hour Coaching Session",
+        "description": "Personalized Valorant coaching. We'll review your gameplay, work on aim, positioning, and game sense. Rank up guaranteed.",
+        "price": 10,
+        "duration": "60 minutes",
+        "availability": "Mon-Fri 6PM-11PM EST"
+      },
+      {
+        "id": 2,
+        "title": "1v1 Match",
+        "description": "Test your skills against me in a 1v1. Great for practice and learning new techniques. I'll give you tips as we play.",
+        "price": 5,
+        "duration": "30 minutes",
+        "availability": "Daily 8PM-11PM EST"
+      },
+      {
+        "id": 3,
+        "title": "Custom Game with Fans",
+        "description": "Join me and other fans for a custom game session. Fun, casual, and a chance to play with the community.",
+        "price": 20,
+        "duration": "90 minutes",
+        "availability": "Saturdays 7PM EST"
+      },
+      {
+        "id": 4,
+        "title": "VOD Review",
+        "description": "Send me your gameplay footage and I'll record a detailed review with commentary. Get actionable feedback to improve fast.",
+        "price": 15,
+        "duration": "Delivered within 48 hours",
+        "availability": "Always available"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Maya Chen",
+    "displayName": "MayaFit",
+    "slug": "mayafit",
+    "category": "Fitness",
+    "subcategories": [
+      "Strength Training",
+      "Wellness",
+      "Nutrition"
+    ],
+    "bio": "Certified personal trainer and wellness coach. 25K Instagram followers. Specializing in strength training and sustainable fitness. Let's build your strongest self together.",
+    "photo": "/creators/profile-maya-fitness.jpg",
+    "currencyName": "MayaFit Coin",
+    "currencySymbol": "MAYAFIT",
+    "currencyPrice": 1.0,
+    "followers": 25000,
+    "customersCount": 680,
+    "servicesSold": 1850,
+    "socialLinks": {
+      "instagram": "https://instagram.com/mayafit",
+      "youtube": "https://youtube.com/mayafit",
+      "tiktok": "https://tiktok.com/@mayafit"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Personal Training Session",
+        "description": "1-on-1 training session tailored to your goals. Strength, conditioning, form correction, and motivation. In-person or virtual.",
+        "price": 12,
+        "duration": "60 minutes",
+        "availability": "Mon-Sat 6AM-8PM PST"
+      },
+      {
+        "id": 2,
+        "title": "Custom Workout Plan",
+        "description": "Personalized 4-week workout program designed for your goals, fitness level, and available equipment. Includes video demos.",
+        "price": 20,
+        "duration": "4-week program",
+        "availability": "Delivered within 3 days"
+      },
+      {
+        "id": 3,
+        "title": "Nutrition Consultation",
+        "description": "45-minute nutrition coaching call. We'll discuss your goals, current habits, and create a sustainable meal plan that works for you.",
+        "price": 15,
+        "duration": "45 minutes",
+        "availability": "Tue/Thu 5PM-8PM PST"
+      },
+      {
+        "id": 4,
+        "title": "Group Fitness Class",
+        "description": "Join my weekly group training session. High-energy, full-body workout. All fitness levels welcome. Limited to 10 people.",
+        "price": 8,
+        "duration": "45 minutes",
+        "availability": "Saturdays 9AM PST"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Alex Rivera",
+    "displayName": "AlexBeats",
+    "slug": "alexbeats",
+    "category": "Music",
+    "subcategories": [
+      "Production",
+      "Mixing",
+      "Hip-Hop",
+      "Lo-Fi"
+    ],
+    "bio": "Music producer and beat maker. 18K SoundCloud followers. Specializing in hip-hop, lo-fi, and electronic production. Let's create your next hit together.",
+    "photo": "/creators/profile-alex-music.jpg",
+    "currencyName": "AlexBeats Coin",
+    "currencySymbol": "ALEXBEATS",
+    "currencyPrice": 1.0,
+    "followers": 18000,
+    "customersCount": 320,
+    "servicesSold": 890,
+    "socialLinks": {
+      "soundcloud": "https://soundcloud.com/alexbeats",
+      "instagram": "https://instagram.com/alexbeats",
+      "youtube": "https://youtube.com/alexbeats"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Custom Beat Production",
+        "description": "Original beat produced from scratch based on your vision. Includes stems and unlimited revisions. You get exclusive rights.",
+        "price": 25,
+        "duration": "Delivered within 5 days",
+        "availability": "Always available"
+      },
+      {
+        "id": 2,
+        "title": "Mixing & Mastering",
+        "description": "Professional mixing and mastering for your track. Radio-ready quality. Includes 2 rounds of revisions.",
+        "price": 30,
+        "duration": "Delivered within 7 days",
+        "availability": "Always available"
+      },
+      {
+        "id": 3,
+        "title": "Production Coaching",
+        "description": "1-hour session where I teach you my production techniques. Screen share, DAW walkthrough, sound design tips.",
+        "price": 15,
+        "duration": "60 minutes",
+        "availability": "Wed/Fri 7PM-10PM EST"
+      },
+      {
+        "id": 4,
+        "title": "Beat Pack (5 Beats)",
+        "description": "Bundle of 5 exclusive beats in your preferred style. Perfect for an EP or mixtape. Includes stems and lease rights.",
+        "price": 80,
+        "duration": "Delivered within 10 days",
+        "availability": "Always available"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Sarah Martinez",
+    "displayName": "SciencewithSarah",
+    "slug": "sciencewithsarah",
+    "category": "Education",
+    "subcategories": [
+      "Science",
+      "STEM",
+      "Tutoring",
+      "Test Prep"
+    ],
+    "bio": "Science teacher and educational content creator. 30K YouTube subscribers. Making STEM fun and accessible for high school students. Let's ace that exam together!",
+    "photo": "/creators/profile-sarah-education.jpg",
+    "currencyName": "SarahTeach Coin",
+    "currencySymbol": "SARAHTEACH",
+    "currencyPrice": 1.0,
+    "followers": 30000,
+    "customersCount": 520,
+    "servicesSold": 1450,
+    "socialLinks": {
+      "youtube": "https://youtube.com/sciencewithsarah",
+      "instagram": "https://instagram.com/sciencewithsarah",
+      "tiktok": "https://tiktok.com/@sciencewithsarah"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "1-on-1 Tutoring Session",
+        "description": "Personalized tutoring in biology, chemistry, or physics. We'll work through concepts, practice problems, and build confidence.",
+        "price": 18,
+        "duration": "60 minutes",
+        "availability": "Mon-Thu 4PM-8PM EST"
+      },
+      {
+        "id": 2,
+        "title": "Homework Help",
+        "description": "Quick 30-minute session to help with specific homework problems or lab reports. Get unstuck fast.",
+        "price": 10,
+        "duration": "30 minutes",
+        "availability": "Daily 6PM-9PM EST"
+      },
+      {
+        "id": 3,
+        "title": "Test Prep Package",
+        "description": "4-week test prep program with 4 tutoring sessions, custom study materials, and practice exams. Perfect for SAT, ACT, or AP exams.",
+        "price": 35,
+        "duration": "4 weeks",
+        "availability": "Rolling enrollment"
+      },
+      {
+        "id": 4,
+        "title": "Custom Study Guide",
+        "description": "I'll create a personalized study guide for your upcoming exam with summaries, diagrams, and practice questions.",
+        "price": 20,
+        "duration": "Delivered within 3 days",
+        "availability": "Always available"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Jordan Lee",
+    "displayName": "JordanArt",
+    "slug": "jordanart",
+    "category": "Art",
+    "subcategories": [
+      "Painting",
+      "Abstract",
+      "Commissions"
+    ],
+    "bio": "Contemporary artist specializing in vibrant abstract paintings. 12K Instagram followers. Custom commissions and art lessons available.",
+    "photo": "/creators/profile-jordan-art.jpg",
+    "currencyName": "JordanArt Coin",
+    "currencySymbol": "JORDANART",
+    "currencyPrice": 1.0,
+    "followers": 12000,
+    "customersCount": 180,
+    "servicesSold": 420,
+    "socialLinks": {
+      "instagram": "https://instagram.com/jordanart",
+      "tiktok": "https://tiktok.com/@jordanart",
+      "etsy": "https://etsy.com/shop/jordanart"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Custom Painting Commission",
+        "description": "Original abstract painting created just for you. Choose size, colors, and vibe. Includes progress photos and certificate of authenticity.",
+        "price": 50,
+        "duration": "Delivered within 3 weeks",
+        "availability": "Always available"
+      },
+      {
+        "id": 2,
+        "title": "Art Print (Signed)",
+        "description": "High-quality print of my existing work, hand-signed and numbered. Multiple sizes available.",
+        "price": 8,
+        "duration": "Ships within 5 days",
+        "availability": "Always available"
+      },
+      {
+        "id": 3,
+        "title": "1-Hour Art Lesson",
+        "description": "Learn my techniques for abstract painting. We'll cover color theory, composition, and brush techniques. Virtual or in-person.",
+        "price": 20,
+        "duration": "60 minutes",
+        "availability": "Weekends 10AM-4PM EST"
+      },
+      {
+        "id": 4,
+        "title": "Studio Visit & Workshop",
+        "description": "Come to my studio for a 2-hour hands-on painting workshop. All materials included. Max 4 people.",
+        "price": 35,
+        "duration": "2 hours",
+        "availability": "First Saturday of each month"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Mia Thompson",
+    "displayName": "StyleByMia",
+    "slug": "stylebymia",
+    "category": "Fashion",
+    "subcategories": [
+      "Styling",
+      "Thrifting",
+      "Personal Shopping"
+    ],
+    "bio": "Fashion stylist and thrift expert. 22K Instagram followers. Helping you find your style without breaking the bank.",
+    "photo": "/creators/profile-mia-fashion.jpg",
+    "currencyName": "StyleByMia Coin",
+    "currencySymbol": "STYLEMIA",
+    "currencyPrice": 1.0,
+    "followers": 22000,
+    "customersCount": 290,
+    "servicesSold": 780,
+    "socialLinks": {
+      "instagram": "https://instagram.com/stylebymia",
+      "tiktok": "https://tiktok.com/@stylebymia",
+      "pinterest": "https://pinterest.com/stylebymia"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Personal Styling Session",
+        "description": "1-hour virtual styling consultation. We'll go through your wardrobe, identify your style, and create outfit combinations.",
+        "price": 15,
+        "duration": "60 minutes",
+        "availability": "Tue-Sat 11AM-7PM EST"
+      },
+      {
+        "id": 2,
+        "title": "Thrift Shopping Guide",
+        "description": "I'll join you (virtually or in-person) for a thrift shopping trip and help you find amazing pieces that fit your style and budget.",
+        "price": 25,
+        "duration": "2 hours",
+        "availability": "Weekends by appointment"
+      },
+      {
+        "id": 3,
+        "title": "Capsule Wardrobe Plan",
+        "description": "Custom 30-piece capsule wardrobe designed for your lifestyle, body type, and budget. Includes shopping links and styling tips.",
+        "price": 40,
+        "duration": "Delivered within 5 days",
+        "availability": "Always available"
+      },
+      {
+        "id": 4,
+        "title": "Event Styling Package",
+        "description": "Complete outfit planning for your special event. Includes 3 outfit options with accessories, shoes, and styling notes.",
+        "price": 30,
+        "duration": "Delivered within 3 days",
+        "availability": "Always available"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Marcus Johnson",
+    "displayName": "MarcusCoach",
+    "slug": "marcuscoach",
+    "category": "Coaching",
+    "subcategories": [
+      "Life Coaching",
+      "Career",
+      "Mindset"
+    ],
+    "bio": "Certified life and career coach. 8K LinkedIn followers. Helping young professionals level up their careers and mindset.",
+    "photo": "/creators/profile-marcus-coaching.jpg",
+    "currencyName": "MarcusCoach Coin",
+    "currencySymbol": "MARCUSC",
+    "currencyPrice": 1.0,
+    "followers": 8000,
+    "customersCount": 150,
+    "servicesSold": 380,
+    "socialLinks": {
+      "linkedin": "https://linkedin.com/in/marcuscoach",
+      "instagram": "https://instagram.com/marcuscoach",
+      "youtube": "https://youtube.com/marcuscoach"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "1-on-1 Coaching Session",
+        "description": "60-minute coaching call focused on your goals. Career transition, confidence, productivity, or mindset work.",
+        "price": 25,
+        "duration": "60 minutes",
+        "availability": "Mon-Fri 9AM-6PM EST"
+      },
+      {
+        "id": 2,
+        "title": "Career Strategy Package",
+        "description": "4-week program with weekly calls, resume review, LinkedIn optimization, and interview prep. Get that promotion or new job.",
+        "price": 80,
+        "duration": "4 weeks",
+        "availability": "Rolling enrollment"
+      },
+      {
+        "id": 3,
+        "title": "Quick Win Call",
+        "description": "30-minute focused session to solve one specific problem or get unstuck on a decision. Fast, actionable advice.",
+        "price": 12,
+        "duration": "30 minutes",
+        "availability": "Mon-Fri 12PM-8PM EST"
+      },
+      {
+        "id": 4,
+        "title": "Goal Setting Workshop",
+        "description": "90-minute workshop where we'll map out your 90-day goals with action steps, accountability systems, and mindset work.",
+        "price": 35,
+        "duration": "90 minutes",
+        "availability": "By appointment"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Dev Patel",
+    "displayName": "DevCodes",
+    "slug": "devcodes",
+    "category": "Tech",
+    "subcategories": [
+      "Web Development",
+      "React",
+      "Node.js"
+    ],
+    "bio": "Full-stack developer and coding instructor. 14K Twitter followers. Teaching web development and helping devs level up their skills.",
+    "photo": "/creators/profile-dev-tech.jpg",
+    "currencyName": "DevCodes Coin",
+    "currencySymbol": "DEVCODES",
+    "currencyPrice": 1.0,
+    "followers": 14000,
+    "customersCount": 240,
+    "servicesSold": 650,
+    "socialLinks": {
+      "twitter": "https://twitter.com/devcodes",
+      "github": "https://github.com/devcodes",
+      "youtube": "https://youtube.com/devcodes"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Code Review Session",
+        "description": "1-hour session where I review your code, suggest improvements, and teach best practices. Includes written feedback.",
+        "price": 22,
+        "duration": "60 minutes",
+        "availability": "Tue/Thu/Sat 6PM-10PM EST"
+      },
+      {
+        "id": 2,
+        "title": "Debug Help",
+        "description": "30-minute session to help you debug that frustrating issue. Screen share, pair programming, get unstuck fast.",
+        "price": 12,
+        "duration": "30 minutes",
+        "availability": "Daily 7PM-11PM EST"
+      },
+      {
+        "id": 3,
+        "title": "Portfolio Website Build",
+        "description": "I'll build you a custom portfolio website with React. Includes design, development, deployment, and source code.",
+        "price": 60,
+        "duration": "Delivered within 2 weeks",
+        "availability": "Always available"
+      },
+      {
+        "id": 4,
+        "title": "Career Mentorship (Monthly)",
+        "description": "Monthly 1-hour mentorship call plus unlimited Slack access. Career advice, technical guidance, and accountability.",
+        "price": 40,
+        "duration": "Monthly recurring",
+        "availability": "Limited slots available"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Emma Wilson",
+    "displayName": "CookWithEmma",
+    "slug": "cookwithemma",
+    "category": "Food",
+    "subcategories": [
+      "Cooking",
+      "Baking",
+      "Meal Prep"
+    ],
+    "bio": "Home chef and recipe developer. 28K TikTok followers. Making cooking fun, easy, and delicious for everyone.",
+    "photo": "/creators/profile-chef-emma.jpg",
+    "currencyName": "CookWithEmma Coin",
+    "currencySymbol": "COOKEMMA",
+    "currencyPrice": 1.0,
+    "followers": 28000,
+    "customersCount": 410,
+    "servicesSold": 980,
+    "socialLinks": {
+      "tiktok": "https://tiktok.com/@cookwithemma",
+      "instagram": "https://instagram.com/cookwithemma",
+      "youtube": "https://youtube.com/cookwithemma"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Virtual Cooking Class",
+        "description": "1-hour live cooking class where we make a delicious meal together. Includes recipe, shopping list, and recording.",
+        "price": 16,
+        "duration": "60 minutes",
+        "availability": "Wed/Sun 6PM EST"
+      },
+      {
+        "id": 2,
+        "title": "Custom Meal Plan",
+        "description": "Personalized 7-day meal plan with recipes, shopping list, and prep instructions. Tailored to your dietary needs and preferences.",
+        "price": 25,
+        "duration": "Delivered within 3 days",
+        "availability": "Always available"
+      },
+      {
+        "id": 3,
+        "title": "Recipe Consultation",
+        "description": "30-minute call to help you perfect a recipe, plan a dinner party menu, or solve a cooking challenge.",
+        "price": 10,
+        "duration": "30 minutes",
+        "availability": "Tue-Sat 2PM-8PM EST"
+      },
+      {
+        "id": 4,
+        "title": "Baking Workshop",
+        "description": "2-hour hands-on baking workshop (virtual or in-person). Learn bread, pastries, or cakes. Includes recipe book.",
+        "price": 30,
+        "duration": "2 hours",
+        "availability": "Saturdays 10AM EST"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Zoe Kim",
+    "displayName": "GlowWithZoe",
+    "slug": "glowwithzoe",
+    "category": "Beauty",
+    "subcategories": [
+      "Makeup",
+      "Skincare",
+      "Tutorials"
+    ],
+    "bio": "Beauty and skincare creator. 35K TikTok followers. Affordable makeup tutorials and skincare routines for glowing skin.",
+    "photo": "/creators/profile-zoe-beauty.jpg",
+    "currencyName": "GlowWithZoe Coin",
+    "currencySymbol": "GLOWZOE",
+    "currencyPrice": 1.0,
+    "followers": 35000,
+    "customersCount": 520,
+    "servicesSold": 1240,
+    "socialLinks": {
+      "tiktok": "https://tiktok.com/@glowwithzoe",
+      "instagram": "https://instagram.com/glowwithzoe",
+      "youtube": "https://youtube.com/glowwithzoe"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Makeup Consultation",
+        "description": "30-minute virtual consultation to find your perfect makeup routine, products, and techniques for your skin type and style.",
+        "price": 14,
+        "duration": "30 minutes",
+        "availability": "Mon-Fri 5PM-9PM EST"
+      },
+      {
+        "id": 2,
+        "title": "Skincare Routine Analysis",
+        "description": "I'll analyze your current routine and create a personalized skincare plan with product recommendations and application order.",
+        "price": 18,
+        "duration": "Delivered within 2 days",
+        "availability": "Always available"
+      },
+      {
+        "id": 3,
+        "title": "Makeup Tutorial (Live)",
+        "description": "1-hour live makeup tutorial where we create a look together. Choose from everyday, glam, or special occasion makeup.",
+        "price": 20,
+        "duration": "60 minutes",
+        "availability": "Weekends 3PM-7PM EST"
+      },
+      {
+        "id": 4,
+        "title": "Product Recommendations",
+        "description": "Custom product list for your budget, skin type, and concerns. Includes drugstore and high-end options with where to buy.",
+        "price": 12,
+        "duration": "Delivered within 24 hours",
+        "availability": "Always available"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Kai Anderson",
+    "displayName": "KaiCaptures",
+    "slug": "kaicaptures",
+    "category": "Photography",
+    "subcategories": [
+      "Portrait",
+      "Street",
+      "Editing"
+    ],
+    "bio": "Urban photographer and photo editor. 19K Instagram followers. Teaching photography and helping you capture amazing shots.",
+    "photo": "/creators/profile-kai-photography.jpg",
+    "currencyName": "KaiCaptures Coin",
+    "currencySymbol": "KAICAP",
+    "currencyPrice": 1.0,
+    "followers": 19000,
+    "customersCount": 280,
+    "servicesSold": 720,
+    "socialLinks": {
+      "instagram": "https://instagram.com/kaicaptures",
+      "vsco": "https://vsco.co/kaicaptures",
+      "500px": "https://500px.com/kaicaptures"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Portrait Photoshoot",
+        "description": "1-hour portrait session in urban location. Includes 15 edited photos delivered within 5 days. Perfect for profiles and content.",
+        "price": 35,
+        "duration": "1 hour + editing",
+        "availability": "Weekends by appointment"
+      },
+      {
+        "id": 2,
+        "title": "Photo Editing Service",
+        "description": "Professional editing for up to 10 of your photos. Color correction, retouching, and my signature urban style.",
+        "price": 18,
+        "duration": "Delivered within 3 days",
+        "availability": "Always available"
+      },
+      {
+        "id": 3,
+        "title": "Photography Lesson",
+        "description": "1-hour photography lesson covering composition, lighting, camera settings, or editing. Virtual or in-person photo walk.",
+        "price": 22,
+        "duration": "60 minutes",
+        "availability": "Tue/Thu/Sat 2PM-8PM EST"
+      },
+      {
+        "id": 4,
+        "title": "Lightroom Preset Pack",
+        "description": "My signature preset pack (10 presets) for that urban, moody aesthetic. Works on mobile and desktop Lightroom.",
+        "price": 8,
+        "duration": "Instant download",
+        "availability": "Always available"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Luna Rodriguez",
+    "displayName": "DanceWithLuna",
+    "slug": "dancewithluna",
+    "category": "Dance",
+    "subcategories": [
+      "Hip-Hop",
+      "Choreography",
+      "Tutorials"
+    ],
+    "bio": "Hip-hop dancer and choreographer. 42K TikTok followers. Teaching dance and creating custom choreography for all skill levels.",
+    "photo": "/creators/profile-luna-dance.jpg",
+    "currencyName": "DanceWithLuna Coin",
+    "currencySymbol": "DANCELUNA",
+    "currencyPrice": 1.0,
+    "followers": 42000,
+    "customersCount": 680,
+    "servicesSold": 1520,
+    "socialLinks": {
+      "tiktok": "https://tiktok.com/@dancewithluna",
+      "instagram": "https://instagram.com/dancewithluna",
+      "youtube": "https://youtube.com/dancewithluna"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Private Dance Lesson",
+        "description": "1-hour private dance lesson. Learn choreography, improve technique, or work on a specific style. Virtual or in-person.",
+        "price": 20,
+        "duration": "60 minutes",
+        "availability": "Mon-Sat 4PM-9PM EST"
+      },
+      {
+        "id": 2,
+        "title": "Custom Choreography",
+        "description": "I'll create custom choreography for your song choice. Includes video tutorial breaking down each 8-count. Perfect for performances.",
+        "price": 35,
+        "duration": "Delivered within 1 week",
+        "availability": "Always available"
+      },
+      {
+        "id": 3,
+        "title": "Dance Tutorial Package",
+        "description": "Access to 5 of my exclusive dance tutorials with detailed breakdowns. Learn at your own pace with lifetime access.",
+        "price": 15,
+        "duration": "Instant access",
+        "availability": "Always available"
+      },
+      {
+        "id": 4,
+        "title": "Group Dance Class",
+        "description": "1-hour group class (max 10 people) learning a fun routine. Great for parties, teams, or friend groups. Virtual or in-person.",
+        "price": 12,
+        "duration": "60 minutes",
+        "availability": "Saturdays 2PM EST"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Ryan Foster",
+    "displayName": "RyanWrites",
+    "slug": "ryanwrites",
+    "category": "Writing",
+    "subcategories": [
+      "Creative Writing",
+      "Editing",
+      "Coaching"
+    ],
+    "bio": "Fiction writer and writing coach. Published author with 11K Twitter followers. Helping writers craft better stories.",
+    "photo": "/creators/profile-ryan-writing.jpg",
+    "currencyName": "RyanWrites Coin",
+    "currencySymbol": "RYANWRITES",
+    "currencyPrice": 1.0,
+    "followers": 11000,
+    "customersCount": 190,
+    "servicesSold": 450,
+    "socialLinks": {
+      "twitter": "https://twitter.com/ryanwrites",
+      "medium": "https://medium.com/@ryanwrites",
+      "substack": "https://ryanwrites.substack.com"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Writing Critique",
+        "description": "Detailed feedback on up to 5,000 words. I'll cover plot, character, pacing, and prose with actionable suggestions.",
+        "price": 28,
+        "duration": "Delivered within 1 week",
+        "availability": "Always available"
+      },
+      {
+        "id": 2,
+        "title": "Writing Coaching Session",
+        "description": "1-hour coaching call to work through plot problems, character development, or any writing challenge you're facing.",
+        "price": 22,
+        "duration": "60 minutes",
+        "availability": "Wed/Fri 10AM-6PM EST"
+      },
+      {
+        "id": 3,
+        "title": "Query Letter Review",
+        "description": "I'll review and provide feedback on your query letter to help you land that agent. Includes one round of revisions.",
+        "price": 15,
+        "duration": "Delivered within 3 days",
+        "availability": "Always available"
+      },
+      {
+        "id": 4,
+        "title": "Writing Workshop",
+        "description": "2-hour group workshop (max 6 writers) covering a specific topic like dialogue, worldbuilding, or editing. Virtual via Zoom.",
+        "price": 18,
+        "duration": "2 hours",
+        "availability": "First Sunday of each month 2PM EST"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Ava Thompson",
+    "displayName": "AvaTalks",
+    "slug": "avatalks",
+    "category": "Podcast",
+    "subcategories": [
+      "Interviews",
+      "Storytelling",
+      "Consulting"
+    ],
+    "bio": "Podcast host and audio storyteller. 16K Spotify followers. Helping creators launch and grow their podcasts.",
+    "photo": "/creators/profile-ava-podcast.jpg",
+    "currencyName": "AvaTalks Coin",
+    "currencySymbol": "AVATALKS",
+    "currencyPrice": 1.0,
+    "followers": 16000,
+    "customersCount": 220,
+    "servicesSold": 580,
+    "socialLinks": {
+      "spotify": "https://spotify.com/avatalks",
+      "apple": "https://podcasts.apple.com/avatalks",
+      "instagram": "https://instagram.com/avatalks"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Podcast Guest Spot",
+        "description": "Be a guest on my podcast! We'll have a 45-minute conversation about your expertise, story, or project. Great exposure.",
+        "price": 25,
+        "duration": "45 minutes recording",
+        "availability": "Tue/Thu 11AM-5PM EST"
+      },
+      {
+        "id": 2,
+        "title": "Podcast Launch Consulting",
+        "description": "1-hour consultation covering equipment, software, format, distribution, and marketing to launch your podcast successfully.",
+        "price": 30,
+        "duration": "60 minutes",
+        "availability": "Mon-Fri 1PM-7PM EST"
+      },
+      {
+        "id": 3,
+        "title": "Audio Editing Service",
+        "description": "Professional editing for one podcast episode (up to 60 min). Includes intro/outro music, noise reduction, and mastering.",
+        "price": 35,
+        "duration": "Delivered within 5 days",
+        "availability": "Always available"
+      },
+      {
+        "id": 4,
+        "title": "Interview Coaching",
+        "description": "30-minute session teaching you how to be a better podcast guest or host. Includes tips on storytelling, pacing, and presence.",
+        "price": 16,
+        "duration": "30 minutes",
+        "availability": "Wed/Fri 3PM-8PM EST"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Jaden Clark",
+    "displayName": "JadenGG",
+    "slug": "jadengg",
+    "category": "Gaming",
+    "subcategories": [
+      "Esports",
+      "Valorant",
+      "Coaching"
+    ],
+    "bio": "Professional Valorant esports player. 50K Twitch followers. Offering coaching, VOD reviews, and custom games with fans.",
+    "photo": "/creators/profile-jaden-esports.jpg",
+    "currencyName": "JadenGG Coin",
+    "currencySymbol": "JADENGG",
+    "currencyPrice": 1.0,
+    "followers": 50000,
+    "customersCount": 820,
+    "servicesSold": 1950,
+    "socialLinks": {
+      "twitch": "https://twitch.tv/jadengg",
+      "twitter": "https://twitter.com/jadengg",
+      "youtube": "https://youtube.com/jadengg"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Pro Coaching Session",
+        "description": "1-hour intensive coaching with a pro player. We'll work on aim, game sense, positioning, and agent selection for your rank.",
+        "price": 30,
+        "duration": "60 minutes",
+        "availability": "Mon/Wed/Fri 7PM-11PM EST"
+      },
+      {
+        "id": 2,
+        "title": "VOD Review",
+        "description": "I'll review one of your competitive matches and provide detailed feedback on your gameplay, mistakes, and how to improve.",
+        "price": 20,
+        "duration": "Delivered within 2 days",
+        "availability": "Always available"
+      },
+      {
+        "id": 3,
+        "title": "Custom 5v5 Match",
+        "description": "Play a custom 5v5 match with me and other fans. I'll be on your team and we'll have fun while I give live tips and callouts.",
+        "price": 15,
+        "duration": "Best of 3 maps",
+        "availability": "Saturdays 8PM EST"
+      },
+      {
+        "id": 4,
+        "title": "Rank Up Package",
+        "description": "4-week program with weekly coaching sessions, VOD reviews, and unlimited Discord access. Guaranteed rank improvement.",
+        "price": 100,
+        "duration": "4 weeks",
+        "availability": "Limited slots"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Nina Patel",
+    "displayName": "FlowWithNina",
+    "slug": "flowwithnina",
+    "category": "Fitness",
+    "subcategories": [
+      "Yoga",
+      "Meditation",
+      "Wellness"
+    ],
+    "bio": "Certified yoga instructor and wellness coach. 32K Instagram followers. Helping you find balance through yoga and mindfulness.",
+    "photo": "/creators/profile-nina-yoga.jpg",
+    "currencyName": "FlowWithNina Coin",
+    "currencySymbol": "FLOWNINA",
+    "currencyPrice": 1.0,
+    "followers": 32000,
+    "customersCount": 540,
+    "servicesSold": 1380,
+    "socialLinks": {
+      "instagram": "https://instagram.com/flowwithnina",
+      "youtube": "https://youtube.com/flowwithnina",
+      "tiktok": "https://tiktok.com/@flowwithnina"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Private Yoga Session",
+        "description": "1-hour private yoga class tailored to your level and goals. Virtual or in-person. Perfect for beginners or advanced practitioners.",
+        "price": 18,
+        "duration": "60 minutes",
+        "availability": "Tue-Sun 7AM-7PM EST"
+      },
+      {
+        "id": 2,
+        "title": "Meditation Coaching",
+        "description": "30-minute guided meditation session followed by Q&A. Learn techniques to reduce stress and improve focus.",
+        "price": 12,
+        "duration": "30 minutes",
+        "availability": "Daily 8AM-9PM EST"
+      },
+      {
+        "id": 3,
+        "title": "Custom Yoga Flow",
+        "description": "I'll create a personalized yoga sequence for your goals (flexibility, strength, relaxation) with video demonstration.",
+        "price": 22,
+        "duration": "Delivered within 3 days",
+        "availability": "Always available"
+      },
+      {
+        "id": 4,
+        "title": "Wellness Program (Monthly)",
+        "description": "Monthly program with weekly yoga classes, meditation sessions, wellness check-ins, and unlimited messaging support.",
+        "price": 45,
+        "duration": "Monthly recurring",
+        "availability": "Rolling enrollment"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Carlos Martinez",
+    "displayName": "DJCarlos",
+    "slug": "djcarlos",
+    "category": "Music",
+    "subcategories": [
+      "DJing",
+      "Production",
+      "Events"
+    ],
+    "bio": "Professional DJ and music producer. 24K SoundCloud followers. Teaching DJing and available for virtual/in-person events.",
+    "photo": "/creators/profile-carlos-dj.jpg",
+    "currencyName": "DJCarlos Coin",
+    "currencySymbol": "DJCARLOS",
+    "currencyPrice": 1.0,
+    "followers": 24000,
+    "customersCount": 380,
+    "servicesSold": 920,
+    "socialLinks": {
+      "soundcloud": "https://soundcloud.com/djcarlos",
+      "instagram": "https://instagram.com/djcarlos",
+      "mixcloud": "https://mixcloud.com/djcarlos"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "DJ Lesson",
+        "description": "1-hour DJ lesson covering beatmatching, mixing, transitions, and equipment. Virtual or in-person. Beginner-friendly.",
+        "price": 25,
+        "duration": "60 minutes",
+        "availability": "Thu/Sat/Sun 3PM-9PM EST"
+      },
+      {
+        "id": 2,
+        "title": "Custom Mix/Set",
+        "description": "I'll create a custom 1-hour DJ mix for your event, workout, or party. Choose the genre and vibe, I'll deliver the perfect set.",
+        "price": 35,
+        "duration": "Delivered within 5 days",
+        "availability": "Always available"
+      },
+      {
+        "id": 3,
+        "title": "Virtual Event Performance",
+        "description": "1-hour live DJ set for your virtual event, party, or stream. High-quality audio and video production included.",
+        "price": 50,
+        "duration": "1 hour performance",
+        "availability": "By appointment"
+      },
+      {
+        "id": 4,
+        "title": "Music Production Coaching",
+        "description": "1-hour session teaching music production, arrangement, mixing, or mastering. I'll share my workflow and techniques.",
+        "price": 28,
+        "duration": "60 minutes",
+        "availability": "Tue/Fri 6PM-10PM EST"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Sophie Chen",
+    "displayName": "DesignBySophie",
+    "slug": "designbysophie",
+    "category": "Design",
+    "subcategories": [
+      "Graphic Design",
+      "Branding",
+      "Illustration"
+    ],
+    "bio": "Freelance graphic designer and illustrator. 17K Behance followers. Creating beautiful designs and teaching design skills.",
+    "photo": "/creators/profile-sophie-design.jpg",
+    "currencyName": "DesignBySophie Coin",
+    "currencySymbol": "DESIGNSOPH",
+    "currencyPrice": 1.0,
+    "followers": 17000,
+    "customersCount": 310,
+    "servicesSold": 780,
+    "socialLinks": {
+      "behance": "https://behance.net/designbysophie",
+      "instagram": "https://instagram.com/designbysophie",
+      "dribbble": "https://dribbble.com/designbysophie"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Logo Design",
+        "description": "Custom logo design with 3 concepts and unlimited revisions. Includes final files in all formats. Perfect for startups and creators.",
+        "price": 45,
+        "duration": "Delivered within 1 week",
+        "availability": "Always available"
+      },
+      {
+        "id": 2,
+        "title": "Brand Identity Package",
+        "description": "Complete brand identity including logo, color palette, typography, and brand guidelines. Everything you need to launch your brand.",
+        "price": 80,
+        "duration": "Delivered within 2 weeks",
+        "availability": "Always available"
+      },
+      {
+        "id": 3,
+        "title": "Design Consultation",
+        "description": "1-hour consultation to review your design work, provide feedback, and teach design principles. Portfolio reviews welcome.",
+        "price": 20,
+        "duration": "60 minutes",
+        "availability": "Mon/Wed/Fri 2PM-8PM EST"
+      },
+      {
+        "id": 4,
+        "title": "Social Media Graphics",
+        "description": "10 custom social media graphics for your brand. Instagram posts, stories, or any platform. Consistent style and on-brand.",
+        "price": 35,
+        "duration": "Delivered within 5 days",
+        "availability": "Always available"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Omar Hassan",
+    "displayName": "OmarsCuts",
+    "slug": "omarscuts",
+    "category": "Grooming",
+    "subcategories": [
+      "Barbering",
+      "Styling",
+      "Consulting"
+    ],
+    "bio": "Professional barber and men's grooming expert. 21K Instagram followers. Offering cuts, styling advice, and barber training.",
+    "photo": "/creators/profile-omar-barber.jpg",
+    "currencyName": "OmarsCuts Coin",
+    "currencySymbol": "OMARSCUT",
+    "currencyPrice": 1.0,
+    "followers": 21000,
+    "customersCount": 450,
+    "servicesSold": 1120,
+    "socialLinks": {
+      "instagram": "https://instagram.com/omarscuts",
+      "tiktok": "https://tiktok.com/@omarscuts",
+      "youtube": "https://youtube.com/omarscuts"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Premium Haircut",
+        "description": "Full haircut service including consultation, cut, styling, and product recommendations. In-person at my shop.",
+        "price": 20,
+        "duration": "45 minutes",
+        "availability": "Tue-Sat 10AM-7PM EST"
+      },
+      {
+        "id": 2,
+        "title": "Grooming Consultation",
+        "description": "30-minute virtual consultation covering hairstyle recommendations, product advice, and grooming routine for your hair type.",
+        "price": 12,
+        "duration": "30 minutes",
+        "availability": "Mon-Sat 9AM-8PM EST"
+      },
+      {
+        "id": 3,
+        "title": "Barber Training Session",
+        "description": "1-hour training for aspiring barbers. I'll teach techniques, fades, lineups, and business tips. Virtual or in-person.",
+        "price": 30,
+        "duration": "60 minutes",
+        "availability": "Sun/Mon 12PM-6PM EST"
+      },
+      {
+        "id": 4,
+        "title": "VIP Monthly Package",
+        "description": "Monthly package with 2 haircuts, priority booking, and unlimited grooming advice via text. Best value for regular clients.",
+        "price": 35,
+        "duration": "Monthly recurring",
+        "availability": "Limited slots"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Leah Morgan",
+    "displayName": "InkByLeah",
+    "slug": "inkbyleah",
+    "category": "Art",
+    "subcategories": [
+      "Tattoo",
+      "Custom Design",
+      "Flash"
+    ],
+    "bio": "Professional tattoo artist specializing in fine line and botanical designs. 28K Instagram followers. Book your custom tattoo or consultation.",
+    "photo": "/creators/profile-leah-tattoo.jpg",
+    "currencyName": "InkByLeah Coin",
+    "currencySymbol": "INKLEAH",
+    "currencyPrice": 1.0,
+    "followers": 28000,
+    "customersCount": 390,
+    "servicesSold": 850,
+    "socialLinks": {
+      "instagram": "https://instagram.com/inkbyleah",
+      "tiktok": "https://tiktok.com/@inkbyleah",
+      "portfolio": "https://inkbyleah.com"
+    },
+    "services": [
+      {
+        "id": 1,
+        "title": "Custom Tattoo Session",
+        "description": "2-hour custom tattoo session. Includes consultation, design, and tattooing. Perfect for small to medium pieces. In-person only.",
+        "price": 80,
+        "duration": "2 hours",
+        "availability": "Wed-Sat by appointment"
+      },
+      {
+        "id": 2,
+        "title": "Tattoo Design Consultation",
+        "description": "30-minute consultation to discuss your tattoo idea, placement, sizing, and get a custom design sketch. Virtual or in-person.",
+        "price": 15,
+        "duration": "30 minutes",
+        "availability": "Tue-Sat 11AM-6PM EST"
+      },
+      {
+        "id": 3,
+        "title": "Flash Tattoo",
+        "description": "Choose from my pre-designed flash collection and get tattooed same day (subject to availability). Quick and affordable.",
+        "price": 40,
+        "duration": "1 hour",
+        "availability": "Walk-ins Fri/Sat 12PM-7PM"
+      },
+      {
+        "id": 4,
+        "title": "Custom Design (No Tattoo)",
+        "description": "I'll create a custom tattoo design for you to take to any artist. Includes 2 revisions and final artwork in high resolution.",
+        "price": 25,
+        "duration": "Delivered within 1 week",
+        "availability": "Always available"
+      }
+    ]
+  }
+]
